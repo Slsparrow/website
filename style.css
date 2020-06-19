@@ -1,0 +1,101 @@
+/*First Comment */
+/*
+light orange: #ffbf69
+white:#ffffff
+light green: #cbf3f0
+dark green: #2ec4b6
+*/
+
+/*First Comment*/
+
+
+
+
+*{
+  font-size: 100%
+  border: 1px solid red;
+  margin: 0;
+  line-height: 1;
+}
+
+body {
+    background-color: #ffbf69 ;
+    color: Black;
+    font-family: 'Balsmiq Sans',Arial;
+    font size: 14px;
+    margin: 50px;
+
+}
+
+h1  {
+  color: blue;
+  text-align: center;
+}
+
+h2{
+  font-size: 24px;
+}
+
+header {
+  background-color: DimGrey;
+  color: white;
+  padding: 30 px;
+  
+}
+
+
+
+section{
+  background-color: white;
+  padding: 30px;
+  margin: 30px;
+}
+
+.container{
+  max-width: 1000px;
+  margin: 0px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer
